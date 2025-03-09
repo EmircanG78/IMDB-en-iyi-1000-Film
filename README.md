@@ -20,7 +20,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 **Bu repoyu klonlayın:**
 ```bash
-git clone https://github.com/EmircanG78/IMDB-Top-1000-Movies.git
+git clone https://github.com/EmircanG78/IMDB-en-iyi-1000-Film.git
 ```
 
 **Gerekli kütüphaneleri yükleyin:**
