@@ -1,38 +1,45 @@
-IMDb En İyi 1000 Film Analizi 🎬📊
+# IMDB En İyi 1000 Film Analizi 🎬📊
 
 Bu proje, IMDb'nin En İyi 1000 Filmi listesindeki verilerini analiz etmektedir. Python, Pandas, Matplotlib ve Seaborn kullanarak çeşitli veri görselleştirme teknikleri uygulanmıştır.
 
-📌 Kullanılan/Kullanılacak Teknolojiler
+---
 
-Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
+## 📌 Kullanılan/Kullanılacak Teknolojiler
 
-pandas → Veri okuma, temizleme ve analiz
+- Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
-matplotlib → Grafikler oluşturma
+  - **pandas** → Veri okuma, temizleme ve analiz  
+  - **matplotlib** → Grafikler oluşturma  
+  - **seaborn** → Veri görselleştirme  
 
-seaborn → Veri görselleştirme
+---
 
-🚀 Kurulum ve Kullanım
+## 🚀 Kurulum ve Kullanım
 
 Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-Bu repoyu klonlayın:
-
+**Bu repoyu klonlayın:**
+```bash
 git clone https://github.com/EmircanG78/IMDB-Top-1000-Movies.git
+```
 
-Gerekli kütüphaneleri yükleyin:
-
+**Gerekli kütüphaneleri yükleyin:**
+```bash
 pip install pandas matplotlib seaborn
+```
 
-Python dosyasını çalıştırın:
-
+**Python dosyasını çalıştırın:**
+```bash
 python Films.py
+```
 
-📊 Örnek Çıktılar
+---
+
+## 📊 Örnek Çıktılar
 
 Bu analiz kapsamında IMDb film türlerinin dağılımı aşağıdaki gibidir:
 
-🎭 Film Türlerinin Dağılımı:
+### 🎭 Film Türlerinin Dağılımı:
 
 | Tür      | Film Sayısı |
 |----------|------------|
@@ -42,20 +49,21 @@ Bu analiz kapsamında IMDb film türlerinin dağılımı aşağıdaki gibidir:
 | Suç      | 190        |
 | Macera   | 180        |
 
-📈 Örnek Grafik:
+---
+
+## 📈 Örnek Grafik:
+
 Aşağıda **IMDb En İyi 1000 Filmlerindeki Türlerin Dağılımını** gösteren bir çubuk grafik bulunmaktadır:
 
 ![Film Türleri Dağılımı](Genre_Analysis.png)
 
+---
 
+## 🔮 Gelecekte Eklenecek Özellikler
 
-🔮 Gelecekte Eklenecek Özellikler
-
-🎭 IMDb puanı ve film türleri arasındaki ilişki analizi
-
-📈 Filmlerin yıllara göre dağılımı
-
-🔍 En popüler yönetmenlerin analizi
+- 🎭 IMDb puanı ve film türleri arasındaki ilişki analizi  
+- 📈 Filmlerin yıllara göre dağılımı  
+- 🔍 En popüler yönetmenlerin analizi  
 
 Bu proje hakkında geri bildirim vermek veya katkıda bulunmak isterseniz lütfen bana ulaşın! 🚀
 
