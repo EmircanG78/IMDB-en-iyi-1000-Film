@@ -30,7 +30,8 @@ pip install pandas matplotlib seaborn
 
 **Python dosyasını çalıştırın:**
 ```bash
-python Films.py
+python Genre_Analysis.py
+python Distribution.py
 ```
 
 ---
