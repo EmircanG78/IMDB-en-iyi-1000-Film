@@ -55,14 +55,23 @@ Bu analiz kapsamında IMDb film türlerinin dağılımı aşağıdaki gibidir:
 
 Aşağıda **IMDb En İyi 1000 Filmlerindeki Türlerin Dağılımını** gösteren bir çubuk grafik bulunmaktadır:
 
-![Film Türleri Dağılımı](Genre_Analysis.png)
+![Film Türleri Dağılımı](images/Genre_Analysis.png)
 
 ---
+### 📈 Filmlerin Yıllara Göre Dağılımı  
+IMDb En İyi 1000 Filmlerinin yıllara göre dağılımını gösteren analiz ve grafik.
+
+- Yıllara göre film üretim trendi artış göstermektedir.
+- Doğrusal eğilim çizgisi, film üretiminin zamanla arttığını doğrulamaktadır.
+
+📊 Grafik:  
+![Bar Chart - Yıllara Göre Dağılım](images/Bar.png)
+![Scatter ve Trend Çizgisi - Yıllara Göre Dağılım](images/Scatter&Trend.png)
 
 ## 🔮 Gelecekte Eklenecek Özellikler
 
+- ~~📈 Filmlerin yıllara göre dağılımı~~ 
 - 🎭 IMDb puanı ve film türleri arasındaki ilişki analizi  
-- 📈 Filmlerin yıllara göre dağılımı  
 - 🔍 En popüler yönetmenlerin analizi  
 
 Bu proje hakkında geri bildirim vermek veya katkıda bulunmak isterseniz lütfen bana ulaşın! 🚀
