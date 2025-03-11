@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+Da*/  # Eğer o Da ile başlayan klasör istemiyorsan
